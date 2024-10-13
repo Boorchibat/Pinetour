@@ -1,5 +1,11 @@
+import { Header } from "./components"
+import { Hero } from "./components/hero"
+
 export const App = () => {
   return( 
-    <div>App</div>
+    <div>
+      <Header />
+      <Hero />
+    </div>
   )
 }
