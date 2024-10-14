@@ -1,1 +1,6 @@
 export * from "./header"
+export * from "./destination"
+export * from "./hero"
+export * from "./pricing"
+export * from "./ready"
+export * from "./footer"

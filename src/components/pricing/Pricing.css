@@ -1,0 +1,68 @@
+#last {
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+}
+#writing {
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#packs {
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+#word {
+  color: grey;
+  font-size: 30px;
+  margin: 0;
+  justify-content: center;
+  display: flex;
+  align-content: center;
+}
+#word2 {
+  font-size: 50px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+.price-box {
+  background-color: ghostwhite;
+  align-content: center;
+  justify-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+  margin: 10px;
+  width: 300px;
+  border-radius: 30px;
+  border-width: 10px;
+ transition: border 3s ease-in;
+}
+.price {
+  justify-content: end;
+  display: flex;
+  margin-right: 20px;
+}
+#list {
+  font-size: 20px;
+  color: grey;
+}
+#right {
+  margin-left: 200px;
+}
+.pac {
+  margin-left: 30px;
+}
+.price-box:hover{
+  border: 2px solid green;
+  box-shadow: 0 8px 16px #00000026;
+  border-width: 10px;
+}

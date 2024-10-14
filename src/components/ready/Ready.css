@@ -1,0 +1,25 @@
+#tond {
+  height: 393px;
+  background-color: #171717;
+  margin-top: 80px;
+}
+#to {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  color: white;
+}
+#button {
+  min-height: 44px;
+  background-color: #18ba51;
+  border-color: transparent;
+  border-radius: 4px;
+  color: white;
+  width: 110px;
+}
+#wrd {
+  margin-top: 130px;
+}
